@@ -39,11 +39,12 @@ jsonpointer==2.4
 jsonschema==4.21.1
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.5
-langchain==0.1.12
+#langchain==0.1.12
+langchain==0.3.3
 langchain_openai
 langchain-community==0.0.28
 langchain-text-splitters==0.0.1
-langsmith==0.1.27
+langsmith==0.1.133
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
