@@ -49,7 +49,7 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 multidict==6.0.5
 mypy-extensions==1.0.0
-numpy==1.24.4
+numpy>=1.26.0rc1,<2.0
 orjson==3.9.15
 packaging
 pandas==2.0.3
