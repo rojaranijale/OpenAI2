@@ -43,7 +43,7 @@ kiwisolver==1.4.5
 langchain-core>=0.1.31
 langchain_openai
 langchain-community==0.0.28
-langchain-text-splitters==0.3.0
+langchain-text-splitters==0.0.1
 langsmith==0.1.133
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
